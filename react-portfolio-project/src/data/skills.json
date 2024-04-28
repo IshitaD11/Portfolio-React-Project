@@ -1,0 +1,26 @@
+[
+    {
+        "title": "JAVA",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "SpringBoot",
+        "imageSrc": "skills/SpringBoot.png"
+    },
+    {
+        "title": "Oracle DB",
+        "imageSrc": "skills/OracleDB.png"
+    },
+    {
+        "title": "mySQL",
+        "imageSrc": "skills/mySQL.png"
+    },
+    {
+        "title": "SAP Hana",
+        "imageSrc": "skills/SAPHana.png"
+    },
+    {
+        "title": "Shell Scripting",
+        "imageSrc": "skills/shellScripting.png"
+    }
+]

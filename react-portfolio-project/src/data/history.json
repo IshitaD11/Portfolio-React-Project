@@ -1,0 +1,34 @@
+[
+    {
+        "role": "Specialist",
+        "organisation": "LTIMindtree",
+        "startDate": "Oct, 2023",
+        "endDate": "Present",
+        "experiences": [
+            "Worked on Oracle DB to Hana DB migration", 
+            "Worked on Supplier Quoting system"
+        ],
+        "imageSrc": "history/LTIM.png"
+      },
+      {
+        "role": "Senior Software Developer",
+        "organisation": "Enquero, A Genpact Company",
+        "startDate": "May, 2021",
+        "endDate": "Oct, 2023",
+        "experiences": [
+            "Built multiple modules of Supply Chain Management System", 
+            "Worked on new custom product launches"],
+        "imageSrc": "history/Genpact.png"
+      },
+      {
+        "role": "Programmer Analyst",
+        "organisation": "Cognizant",
+        "startDate": "Nov, 2017",
+        "endDate": "May, 2021",
+        "experiences": [
+          "Worked on inbound data integration",
+          "Developed reports to visualize daily data inbound and outbound flows"
+        ],
+        "imageSrc": "history/Cognizant.png"
+      }
+]
