@@ -1,8 +1,9 @@
 import styles from './App.module.css';
 import { About } from './components/About/About';
-import Experiance from './components/Experience/Experience';
+import { Experience } from './components/Experience/Experience';
 import { Hello } from './components/Hello/Hello';
 import { Navbar } from './components/Navbar/Navbar';
+import { Project } from './components/Project/Project';
 
 function App() {
 
@@ -11,7 +12,8 @@ function App() {
       <Navbar />
       <Hello />
       <About />
-      <Experiance />
+      <Experience />
+      <Project />
     </div>
   );
 }

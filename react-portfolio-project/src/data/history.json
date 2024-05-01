@@ -4,11 +4,11 @@
         "organisation": "LTIMindtree",
         "startDate": "Oct, 2023",
         "endDate": "Present",
-        "experiences": [
-            "Worked on Oracle DB to Hana DB migration", 
-            "Worked on Supplier Quoting system"
+        "experiences": [ 
+            "Worked on Supplier Quoting system",
+            "Worked on Quotation document"
         ],
-        "imageSrc": "history/LTIM.png"
+        "imageSrc": "experience/LTIM.png"
       },
       {
         "role": "Senior Software Developer",
@@ -18,7 +18,7 @@
         "experiences": [
             "Built multiple modules of Supply Chain Management System", 
             "Worked on new custom product launches"],
-        "imageSrc": "history/Genpact.png"
+        "imageSrc": "experience/Genpact.png"
       },
       {
         "role": "Programmer Analyst",
@@ -29,6 +29,6 @@
           "Worked on inbound data integration",
           "Developed reports to visualize daily data inbound and outbound flows"
         ],
-        "imageSrc": "history/Cognizant.png"
+        "imageSrc": "experience/Cognizant.png"
       }
 ]

@@ -5,22 +5,34 @@
     },
     {
         "title": "SpringBoot",
-        "imageSrc": "skills/SpringBoot.png"
+        "imageSrc": "skills/springBoot.png"
     },
     {
-        "title": "Oracle DB",
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
+    },
+    {
+        "title": "Oracle",
         "imageSrc": "skills/OracleDB.png"
     },
     {
         "title": "mySQL",
-        "imageSrc": "skills/mySQL.png"
+        "imageSrc": "skills/MySQL.png"
     },
     {
         "title": "SAP Hana",
         "imageSrc": "skills/SAPHana.png"
     },
     {
-        "title": "Shell Scripting",
+        "title": "ShellScript",
         "imageSrc": "skills/shellScripting.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
     }
 ]
