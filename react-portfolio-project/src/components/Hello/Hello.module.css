@@ -56,8 +56,8 @@
     width: 50%;
     z-index: 1;
     border-radius: 50%;
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
 
     animation-name: floating;
     animation-duration: 3s;
