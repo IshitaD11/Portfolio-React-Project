@@ -1,6 +1,5 @@
-// eslint-disable-next-line no-unused-vars
-import React from 'react'
-import { getImageUrl } from '../../utils'
+import React from 'react';
+import { getImageUrl } from '../../utils';
 
 import styles from "./Hello.module.css";
 

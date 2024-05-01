@@ -1,7 +1,7 @@
 [
     {
         "title" : "Blog Application",
-        "imageSrc" : "projects/blog.png",
+        "imageSrc" : "projects/project.png",
         "description" : "This blog Application allows multiple users to post, edit blogs, view other user's blogs.",
         "skills" : ["Java","SpringBoot","SpringSecurity","Thymleaf","html","css"],
         "demo" : "https://example.com",
@@ -9,7 +9,7 @@
     },
     {
         "title" : "Book My Show",
-        "imageSrc" : "projects/bms.png",
+        "imageSrc" : "projects/project.png",
         "description" : "This is bookmyshow application, where users can book tickets",
         "skills" : ["Java","SpringBoot","html","css"],
         "demo" : "https://example.com",
@@ -17,7 +17,7 @@
     },
     {
         "title" : "Tic Tac Toe",
-        "imageSrc" : "projects/ttt.png",
+        "imageSrc" : "projects/project.png",
         "description" : "This is tic tac toe game, users can play with other players or Bot. User can select between 3 Bot playing strategy",
         "skills" : ["Java","SpringBoot","html","css"],
         "demo" : "https://example.com",

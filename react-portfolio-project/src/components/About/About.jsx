@@ -1,13 +1,12 @@
-// eslint-disable-next-line no-unused-vars
 import React from 'react';
-import { getImageUrl } from '../../utils'
 
+import { getImageUrl } from '../../utils';
 import styles from "./About.module.css";
 
 export const About = () => {
     return (
         <section className={styles.container} id="about">
-            <h2 className={styles.header}> About </h2>
+            <h2 className={styles.title}> About </h2>
             <div className={styles.content}>
                 <img src={getImageUrl("about/aboutImg.png")} alt="workingWoman" className={styles.workingWomanImg} />
                 <ul className={styles.aboutItems}>

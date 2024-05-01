@@ -1,10 +1,9 @@
-// eslint-disable-next-line no-unused-vars
 import React from 'react';
+
 import { getImageUrl } from "../../utils";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
-
-import styles from "./Experience.module.css"
+import styles from "./Experience.module.css";
 
 export const Experience = () => {
   return (
@@ -15,7 +14,6 @@ export const Experience = () => {
           skills.map((skill, id) => {
             return (
             <div key={id} className={styles.skill}> 
-              {/* <div className={styles.skillImageContainer} style={{backgroundImage: `url(${getImageUrl(skill.imageSrc)})` }}> </div> */}
               <div className={styles.skillImageContainer}>
                 <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
               </div>

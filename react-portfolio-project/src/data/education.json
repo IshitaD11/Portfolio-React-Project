@@ -1,0 +1,27 @@
+[
+    {
+        "degree": "Master of Science in Computer Science",
+        "certificateLink": "https://woolf.university/id/722038819?token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJiMDk3MDIzLWVlMTgtNGU4NC05MzRkLTk0NmIzMTlmNmNjOSIsImlzcyI6InVybjpXb29sZlVuaXZlcnNpdHk6c2VydmVyL3NlcnZpY2UvYWNjZXNzIiwiaXNWZXJpZmllZCI6dHJ1ZSwia2luZCI6Im9hdXRoIiwib3JnIjp7Imdyb3VwcyI6W10sImlkIjoiOWIxN2Y1Y2UtMTA3OC00ZmRmLWFlYzAtMDJiZjRlY2ZiMGE2In0sInNjb3BlIjoiKiJ9.Yq2iZjss3VADARyT1aSiMpRP6X8pvS8IvcgvYAmUV04",
+        "organisation": "Scaler Neoversity",
+        "startDate": "March 2023",
+        "endDate": "Present",
+        "specialization": "Backend Engineering",
+        "imageSrc": "education/scaler.png"
+    },
+    {
+        "degree": "Bachelor of Technology",
+        "organisation": "St. Thomas College of Engineering and Technology",
+        "startDate": "July 2013",
+        "endDate": "Jun 2017",
+        "specialization": "Electronics and Communication",
+        "imageSrc": "education/btech.png"
+    },
+    {
+        "degree": "Oracle Database SQL Certified Associate",
+        "certificateLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=15DAEA891CB8107EE02A762F29290924460273A4EBBDB105B32FCDDD338FA4DB",
+        "organisation": "Oracle",
+        "startDate": "April 2022",
+        "specialization": "SQL, DDL, DML, DCL",
+        "imageSrc": "education/sql.png"
+    }
+]
