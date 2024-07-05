@@ -17,7 +17,7 @@ Make sure you have Node.js and npm installed. You can download Node.js from [nod
 
 1. Clone the repository:
 
-    `git clone https://github.com/yourusername/portfolio-website.git`
+    `git clone https://github.com/IshitaD11/Portfolio-React-Project.git`
 
 
 2. Navigate to the project directory:
