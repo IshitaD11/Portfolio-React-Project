@@ -2,7 +2,7 @@
     {
         "title" : "Blog Application",
         "imageSrc" : "projects/project.png",
-        "description" : "A blog Application allows multiple users to post, edit blogs, view other user's blogs.",
+        "description" : "A blog platform where users can create, edit, and view posts, securely register and log in, and personalize profiles.",
         "skills" : ["Java","SpringBoot","HTML","CSS","JavaScript","PostgreSQL"],
         "demo" : "https://algoblog.onrender.com",
         "source" : "https://github.com/IshitaD11/Spring-Boot-Blog-Application"
@@ -10,14 +10,14 @@
     {
         "title" : "Seat Booking App",
         "imageSrc" : "projects/project.png",
-        "description" : "Seat booking application (Backend only), where multiple users can book seats simulteneously. Seats are blocked for fixed time using soft locking technique.",
+        "description" : "Backend seat booking application designed for simultaneous user bookings, implementing soft locking to temporarily reserve seats.",
         "skills" : ["Java","SpringBoot","MySQL"],
         "source" : "https://github.com/IshitaD11/BookMyShow-SpringBoot"
     },
     {
         "title" : "Parking Lot",
         "imageSrc" : "projects/project.png",
-        "description" : "A parking lot management system, where slot assignment is done automatically at entry gate and payment taken at the exit gate.",
+        "description" : "A comprehensive parking lot management system automating slot assignment upon entry and handling payment processing at the exit gate.",
         "skills" : ["Java","SpringBoot","MySQL"],
         "source" : "https://github.com/IshitaD11/Parkinglot-Management-System-using-Springboot"
     }

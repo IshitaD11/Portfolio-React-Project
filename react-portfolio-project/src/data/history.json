@@ -5,8 +5,8 @@
         "startDate": "Oct, 2023",
         "endDate": "Present",
         "experiences": [ 
-            "Worked on Supplier Quoting system",
-            "Worked on Quotation document"
+            "Developed the minimum quotation amount calculation in the Supplier Quoting system.",
+            "Integrated and Migrated databases from Oracle to Hana DB."
         ],
         "imageSrc": "experience/LTIM.png"
       },
@@ -16,8 +16,8 @@
         "startDate": "May, 2021",
         "endDate": "Oct, 2023",
         "experiences": [
-            "Built multiple modules of Supply Chain Management System", 
-            "Worked on new custom product launches"],
+            "Built and contributed to multiple modules of the Supply Chain Management System.",
+            "Automated the order processing system for new custom product launches."],
         "imageSrc": "experience/Genpact.png"
       },
       {
@@ -26,8 +26,8 @@
         "startDate": "Nov, 2017",
         "endDate": "May, 2021",
         "experiences": [
-          "Worked on inbound data integration",
-          "Developed reports to visualize daily data inbound and outbound flows"
+          "Managed inbound and outbound data integration.",
+          "Developed reports to visualize and summurize daily data flows."
         ],
         "imageSrc": "experience/Cognizant.png"
       }

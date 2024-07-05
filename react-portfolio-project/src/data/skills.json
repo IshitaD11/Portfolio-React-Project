@@ -16,7 +16,7 @@
         "imageSrc": "skills/OracleDB.png"
     },
     {
-        "title": "mySQL",
+        "title": "MySQL",
         "imageSrc": "skills/MySQL.png"
     },
     {
@@ -44,7 +44,7 @@
         "imageSrc": "skills/JavaScript.png"
     },
     {
-        "title": "docker",
+        "title": "Docker",
         "imageSrc": "skills/docker.png"
     }
 ]

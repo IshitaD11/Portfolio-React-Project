@@ -47,8 +47,7 @@
 }
 
 .skillImageContainer img {
-    /* display: none; */
-    width: 90px; /* Set the desired width */
+    width: 90px; 
 }
 
 .skill p {
@@ -77,6 +76,7 @@
 
 .historyItem img {
   width: 50px;
+  border-radius: 10px;
 }
 
 .historyItemDetails {

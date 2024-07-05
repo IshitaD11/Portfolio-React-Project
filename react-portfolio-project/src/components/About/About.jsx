@@ -15,7 +15,7 @@ export const About = () => {
                         <div className={styles.aboutItemText}>
                             <h3> Backend Developer </h3>
                             <p>
-                                I have experience in developing fast and optimised backend system and APIs using Java and Springboot.
+                                Specialized in developing fast and optimized backend systems and APIs using Java and Spring Boot.
                             </p>
                         </div>
                     </li>
@@ -24,7 +24,7 @@ export const About = () => {
                         <div className={styles.aboutItemText}>
                             <h3> Database Developer </h3>
                             <p>
-                                I vastly worked on designing and working on multiple databases using MySQL, Oracle SQL, SAP Hana.
+                                Experienced in designing and managing databases such as MySQL, Oracle SQL, SAP HANA, and PostgreSQL.
                             </p>
                         </div>
                     </li>
@@ -33,7 +33,7 @@ export const About = () => {
                         <div className={styles.aboutItemText}>
                             <h3> 500+ Leetcode Problem solved </h3>
                             <p>
-                                I am an expert problem solver and Solved more than 500 problems from Leetcode, CodingNinja, InterviewBit.
+                                Solved over 500 challenges across platforms such as LeetCode, InterviewBit, demonstrating strong problem-solving skills.
                             </p>
                         </div>
                     </li>
@@ -43,7 +43,7 @@ export const About = () => {
                         <div className={styles.aboutItemText}>
                             <h3> Frontend enthusiast </h3>
                             <p>
-                                I have developed responsive frontend projects using React, html, CSS for own learning.
+                                Built responsive and intuitive user interfaces using React, HTML, and CSS for personal projects.
                             </p>
                         </div>
                     </li>
