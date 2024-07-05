@@ -22,7 +22,7 @@ Make sure you have Node.js and npm installed. You can download Node.js from [nod
 
 2. Navigate to the project directory:
 
-    `cd portfolio-website`
+    `cd react-portfolio-project`
 
 3. Install dependencies:
 
