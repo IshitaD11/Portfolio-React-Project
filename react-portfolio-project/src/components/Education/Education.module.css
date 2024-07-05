@@ -94,3 +94,37 @@
     background-color: #fbfbfb; /* Color of the bullet point */
     border-radius: 50%; /* Shape of the bullet point (circle) */
   }
+
+  @media screen and (max-width: 830px) {
+
+    .title {
+      font-size: 30px;
+    }
+  
+    .certificates{
+      width: 100%;
+    }
+
+    .certificate{
+      padding-right: 0px;
+      padding-left: 10px;
+    }
+    
+    .certificateDetails h3 {
+      font-size: 22px;
+    }
+    
+    .certificateDetails p {
+      font-size: 16px
+    }
+  
+    .certificateDetails h4 {
+      font-size: 20px;
+    }
+
+    .certificate img{
+      height: 50px;
+      width: 50px;
+    }
+  
+}

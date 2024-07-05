@@ -2,25 +2,23 @@
     {
         "title" : "Blog Application",
         "imageSrc" : "projects/project.png",
-        "description" : "This blog Application allows multiple users to post, edit blogs, view other user's blogs.",
-        "skills" : ["Java","SpringBoot","SpringSecurity","Thymleaf","html","css"],
-        "demo" : "https://example.com",
+        "description" : "A blog Application allows multiple users to post, edit blogs, view other user's blogs.",
+        "skills" : ["Java","SpringBoot","HTML","CSS","JavaScript","PostgreSQL"],
+        "demo" : "https://algoblog.onrender.com",
         "source" : "https://github.com/IshitaD11/Spring-Boot-Blog-Application"
     },
     {
-        "title" : "Book My Show",
+        "title" : "Seat Booking App",
         "imageSrc" : "projects/project.png",
-        "description" : "This is bookmyshow application, where users can book tickets",
-        "skills" : ["Java","SpringBoot","html","css"],
-        "demo" : "https://example.com",
-        "source" : "https://github.com/IshitaD11/Spring-Boot-Blog-Application"
+        "description" : "Seat booking application (Backend only), where multiple users can book seats simulteneously. Seats are blocked for fixed time using soft locking technique.",
+        "skills" : ["Java","SpringBoot","MySQL"],
+        "source" : "https://github.com/IshitaD11/BookMyShow-SpringBoot"
     },
     {
-        "title" : "Tic Tac Toe",
+        "title" : "Parking Lot",
         "imageSrc" : "projects/project.png",
-        "description" : "This is tic tac toe game, users can play with other players or Bot. User can select between 3 Bot playing strategy",
-        "skills" : ["Java","SpringBoot","html","css"],
-        "demo" : "https://example.com",
-        "source" : "https://github.com/IshitaD11/Spring-Boot-Blog-Application"
+        "description" : "A parking lot management system, where slot assignment is done automatically at entry gate and payment taken at the exit gate.",
+        "skills" : ["Java","SpringBoot","MySQL"],
+        "source" : "https://github.com/IshitaD11/Parkinglot-Management-System-using-Springboot"
     }
 ]

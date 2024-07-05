@@ -118,5 +118,23 @@
     .content {
         align-items: center;
     }
+
+    .title{
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    .profileImg{
+        height: 200px;
+        width: 200px;
+    }
+
+    .description{
+        font-size: 25px;
+    }
+    
+    .contactBtn{
+        font-size: 25px;
+    }
 }
 

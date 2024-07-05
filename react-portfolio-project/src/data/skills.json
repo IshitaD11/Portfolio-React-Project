@@ -34,5 +34,17 @@
     {
         "title": "CSS",
         "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "imageSrc": "skills/PostgreSQL.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/JavaScript.png"
+    },
+    {
+        "title": "docker",
+        "imageSrc": "skills/docker.png"
     }
 ]
